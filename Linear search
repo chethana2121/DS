@@ -1,6 +1,6 @@
 //Using Recursion
   
- 	include<stdio.h>
+#include<stdio.h>
 int linearSearch1(int[] ,int , int);
 	int main(){
 	        int a[30],n,i,x,p;
@@ -56,7 +56,7 @@ int linearSearch1(int[] ,int , int);
 
 //Using Non Recursion 
  
-	include<stdio.h>
+#include<stdio.h>
 int linearSearch(int[] ,int , int);
 	int main(){
 	        int a[30],n,i,x,p;
